@@ -32,7 +32,16 @@ This repository contains the **computational framework** for the Fundamental The
 ```bash
 # Clone the repository
 git clone https://github.com/admin135158/FTCoE_Computational_Framework.git
+FTCoE_Computational_Framework/
+├── src/           # Source code
+├── notebooks/     # Jupyter tutorials
+├── tests/        # Unit tests
+├── docs/         # Documentation
+└── data/         # Simulation outputs
 
+<div align="center">
+  <i>Consciousness is not something we have, but something we are part of.</i>
+</div>
 # Install dependencies
 pip install -r requirements.txt
 
