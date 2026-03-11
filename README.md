@@ -26,3 +26,15 @@ This repository contains the **computational framework** for the Fundamental The
 | **Field** | Ψ-CE field propagation, coupling dynamics |
 | **Information** | Φ' (Phi-prime) calculations |
 | **Geometry** | Resonance boundary conditions |
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/admin135158/FTCoE_Computational_Framework.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run first simulation
+python src/quantum/microtubule.py
